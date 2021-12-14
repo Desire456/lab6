@@ -1,5 +1,6 @@
 # Help box
 `mpicc -o ${output_filename} ${source_filename}` - compiles the program
+<br/>
 `mpirun ${output_filename}` - run the mpi program
 
 Useful mpirun arguments:
